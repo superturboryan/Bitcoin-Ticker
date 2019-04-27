@@ -1,5 +1,5 @@
 # Bitcoin-Ticker
-BitCoin price tracker in multiple currencies using AlamoFire HTTP requests interpreted using SwiftyJSON
+BitCoin price tracker in multiple currencies using AlamoFire to make HTTP requests and interpreting the respone using SwiftyJSON.
 
 
 ## Screenshots
